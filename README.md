@@ -1,0 +1,2 @@
+# ScheduleBot
+Scrapes TW-5 schedules site, and notifies registered users when thier specific squadrons schedule is available. An attempt is made to scrape the respective data for a user when thier name is found on the schedule. Notifications are sent through email, and text.
